@@ -1,4 +1,4 @@
-https://github.com/tu-usuario-de-github/nombre-del-proyecto
+https://github.com/MariaMartinez/Mall-Customer-Segmentation
 # Carga de librerías
 library(ggplot2)
 library(cluster)
